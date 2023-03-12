@@ -9,7 +9,7 @@ function crearUsuario() {
    // Este método debe retornar el string: 'Hola, mi nombre es {{nombre}}'.
    // El valor {{nombre}} debe ser el nombre definido para la instancia de la clase.
    // Retornar la clase.
-   // Tu código:
+   // Tu código: |||||||||||
 }
 
 function agregarMetodoPrototype(Usuario) {
